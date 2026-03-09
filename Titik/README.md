@@ -5,4 +5,4 @@ Lab : A2
 
 Hasil setelah dicompile akan membuat sebuah titik yang sudah ditentukan koordinatnya:
 
-<img width="1000" height="889" alt="Screenshot 2026-03-08 145006" src="https://github.com/user-attachments/assets/823e6b82-ae03-46ce-9803-1610171aa098" />
+<img width="998" height="802" alt="Screenshot 2026-03-08 151239" src="https://github.com/user-attachments/assets/d58abe77-6643-475b-b9bc-264a750696df" />
